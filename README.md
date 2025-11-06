@@ -11,8 +11,14 @@ Dashboard Interactions  <a  href="https://github.com/thechronic04/AmaZon-Diwali-
 
 
 ## Dashboard
-  ![Screenshot (44)]((https://github.com/thechronic04/AmaZon-Diwali-Product-Sales-2025/blob/main/Screenshot%202025-11-05%20233756.png))
+[ [![Screenshot (44)]((https://github.com/thechronic04/AmaZon-Diwali-Product-Sales-2025/blob/main/Screenshot%202025-11-05%20233756.png))]
 
+
+
+Monthly Total Sales(inr)-2025 <img width="1979" height="780" alt="57b8e11a-b973-4d4f-b214-8827ea4d620c" src="https://github.com/user-attachments/assets/2a5e6306-89c1-4200-a22b-cb09a729a052" />
+
+
+Actual Monthly Sales (2025) and Forecast(2026) <img width="2178" height="780" alt="f8c8a9b6-ba1a-4a7f-b6b0-ce9a75ca5b0c" src="https://github.com/user-attachments/assets/7faae56b-b98c-4890-8df3-037e34d75d58" />
 
 
 
@@ -122,7 +128,36 @@ X-axis → Sum of Total Sales (INR)
 Bars sorted descending = clear ranking.
 
 
+# What I did for forecasting.
 
+Aggregated sales to monthly totals for 2025.
+Built a Linear Regression model with:
+MonthIndex (trend)
+sin(month) and cos(month) (to capture seasonality)
+Forecasted monthly sales for Jan–Dec 2026.
+Explored top 5 product categories trends across months.
+I displayed the intermediate tables and plots so you can inspect them directly.
+
+# Model performance (linear regression with seasonality)
+
+R² (goodness of fit): 0.337 — model explains ~33.7% of variance (moderate).
+Interpretation: Linear regression with one seasonal harmonic captures some trend + seasonality, but there's substantial unexplained variance (typical for retail data — promotions, daily spikes, returns, etc.).
+RMSE: ₹2,856,632 (average monthly error magnitude).
+Coefficients:
+MonthIndex: +723,084 (monthly upward trend)
+sin(month): +826,061
+cos(month): -1,103,405
+Intercept: 89,203,185.95
+These coefficients combine to produce the predicted monthly sales pattern (trend + seasonal wave).
+
+# Forecasted monthly sales (2026)
+
+I showed the forecast table in Code section.
+
+YearMonth	Forecast_Sales_INR
+2026-01-01	...
+2026-02-01	...
+2026-12-01	...
 
 
 # Amazon Diwali Product Sales Analysis & Forecast – 2026
