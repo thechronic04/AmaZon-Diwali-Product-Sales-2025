@@ -62,7 +62,70 @@ Air fryet
 Jeans
 
 
-Amazon Diwali Product Sales Analysis & Forecast – 2026
+
+
+# Dashboard Title
+
+Amazon Diwali Products Sales 2025 Report
+Displayed as a text box or card for clear report branding.
+
+# 1.Total Sales by Product Category
+
+Type: Pie Chart
+Purpose: To show each product category’s percentage share of total sales.
+Details:
+Slices represent categories: Beauty, Electronics, Books, Clothing, Home & Kitchen.
+Value field: Sum of Total_Sales_INR.
+Best for comparing proportions.
+
+# 2️.Payment Method Used
+
+Type: Horizontal Bar Chart (Clustered Bar)
+Purpose: To show which payment methods contributed the most to total sales.
+Axis:
+Y-axis → Payment Method (Credit Card, COD, Debit, UPI)
+X-axis → Sum of Total Sales (INR)
+Color-coded for visual contrast.
+
+#3️.State-wise Order
+
+Type: Tree Map
+Purpose: To show regional distribution of orders.
+Details:
+Each rectangle = one state (size = total orders/sales).
+Larger area → more orders.
+Perfect for geographical categorical comparison without maps.
+
+# 4️.Product Wise Rating
+
+Type: Table / Matrix Visual
+Purpose: To list products with their total review ratings.
+Columns: Product_Name | Sum of Review_Rating
+Use: For rank-based insights (Perfume, Children’s Book, Smartwatch rated highest).
+
+# 5.Total Sales INR by Delivery Status (Groups)
+
+Type: Stacked Bar Chart
+Purpose: To compare delivery outcomes (Delivered, Pending, Returned).
+Axis:
+Y-axis → Delivery Status
+X-axis → Sum of Total Sales (INR)
+Visual Feature: 100% stacked bar style shows proportions and totals simultaneously.
+
+# 6️.Top 10 Total Sales INR by Product Name
+
+Type: Horizontal Bar Chart (Sorted)
+Purpose: To display top 10 best-selling products.
+Axis:
+Y-axis → Product Name (Lipstick, Children’s Book, etc.)
+X-axis → Sum of Total Sales (INR)
+Bars sorted descending = clear ranking.
+
+
+
+
+
+# Amazon Diwali Product Sales Analysis & Forecast – 2026
 Key Highlights from 2025 Sales
 Aspect	2025 Insights
 Top Product Category	Beauty Products
@@ -72,43 +135,43 @@ Top Payment Method	Credit Card
 Delivery Status Summary	Delivered – 378.75M, Pending – 376.21M, Returned – 363.20M
 High-Rated Products	Perfume, Children’s Books, Smartwatch, Tablet, Laptop
 
-##2026 Sales Forecast & Strategic Recommendations
-#Focus on High-Demand Categories
+## 2026 Sales Forecast & Strategic Recommendations
+# Focus on High-Demand Categories
 
 Beauty Products are consistently top-performing — expand product variety and introduce combo Diwali gift packs (lipstick + perfume + skincare).
 Electronics showed strong momentum (smartwatches, tablets, laptops). Expect +15–20% growth next year due to tech gifting trends.
 Promote Children’s Books through “Family & Learning Diwali Offers."
 
-##Strategy:
+# Strategy:
 Create targeted Diwali campaigns like “Glow & Gadget Fest 2026” focusing on Beauty + Electronics.
 
-##Optimize Payment Method Mix
+# Optimize Payment Method Mix
 
 Since Credit Card usage was the highest, offer exclusive cashback deals and EMI offers to boost conversion rates.
 UPI adoption is increasing year over year — ensure smooth UPI payment integration and festival cashback for UPI users.
 
-##Strategy:
+# Strategy:
 Introduce tiered discounts by payment method (e.g., 10% off on Credit Card, 7% off on UPI).
 
-##Improve Delivery Efficiency
+# Improve Delivery Efficiency
 
 High Pending (376M) and Returned (363M) orders indicate a logistics bottleneck.
 
 Focus on inventory forecasting, regional warehouses, and real-time tracking updates.
 
-##Strategy:
+# Strategy:
 Launch “Amazon Diwali Express Delivery” for top 10 states and strengthen return handling through local partners.
 
-##Regional Targeting – Statewise Insights
+# Regional Targeting – Statewise Insights
 
 Sikkim and Rajasthan show strong Diwali shopping enthusiasm.
 Consider regional ad campaigns featuring cultural themes and language localization.
 States like Meghalaya and Chhattisgarh are emerging markets – focus on free delivery and festival combo packs to boost adoption.
 
-##Strategy:
+# Strategy:
 Use geo-targeted marketing and influencer promotions in Tier 2 & Tier 3 states.
 
-##Product-Level Recommendations
+# Product-Level Recommendations
 #Product2025	         #2026 Forecast                   	#Suggested Offer
 1. Lipstick	             Expected +20%	             Buy 2 Get 1 or “Beauty Box Combo
 2. Children’s Book		   Steady                      Family reading packs
@@ -121,13 +184,13 @@ Use geo-targeted marketing and influencer promotions in Tier 2 & Tier 3 states.
 9. Jeans		              +5%	                       Buy 1 Get 1 50% Off
 
 
-##Customer Experience Goals for 2026
+# Customer Experience Goals for 2026
 
 Reduce return rate by 20% through better quality checks & clear product details.
 Deliver 90% of orders on-time by expanding logistics in Tier 2/3 cities.
 Boost customer retention through festive loyalty programs like “Amazon Diwali Gold Members.”
 
-##Conclusion
+# Conclusion
 If Amazon leverages 2025 trends effectively, Diwali 2026 could witness:
 
 Estimated 25–30% increase in total sales.
