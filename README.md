@@ -27,45 +27,12 @@ Actual Monthly Sales (2025) and Forecast(2026) <img width="2178" height="780" al
 Amazon Diwaliproducts sales 2025
 
 Analysis for next years diwali sales.
-
 1.Which product category sold the most?
-Ans:- Beauty Prodents were sold the most, following by Electronics, Books clothing. Home and kitchen.
-
 2.which method of payment the wetre Used the most?
-Ans:- Credit card payment method was used the highest during the divali sales, followed by cash on delivory, debit cand and upI.
-
 3.Product rating of Tops product.
-Ans:- Perfume, Children's books, Smartwatch, Tablet, Laptop.
-
 4.,which state ordered most product?
-Ans:- Sikkim pordered the most proti product during diwali sales, Tops.
-Top5
-Sikkim
-Rajasthan
-Tamil nadee
-Meghalaya
-Chattisgarh
-
 5.Delivery status of sales.
-
-Delivered=378.75 M
-Pending = 376.21 M
-Returned = 363.20 M
-
-6.Which product sold the most? 
-
-Top 10
-
-Lipstick
-Children's Book
-Headphones
-Hair Dryer
-Perifume
-Laptop
-Tablet
-SneakeRs
-Air fryet
-Jeans
+6.Which product sold the most?
 
 
 
@@ -75,7 +42,7 @@ Jeans
 Amazon Diwali Products Sales 2025 Report
 Displayed as a text box or card for clear report branding.
 
-# 1.Total Sales by Product Category
+Total Sales by Product Category
 
 Type: Pie Chart
 Purpose: To show each product category’s percentage share of total sales.
@@ -84,7 +51,7 @@ Slices represent categories: Beauty, Electronics, Books, Clothing, Home & Kitche
 Value field: Sum of Total_Sales_INR.
 Best for comparing proportions.
 
-# 2️.Payment Method Used
+Payment Method Used
 
 Type: Horizontal Bar Chart (Clustered Bar)
 Purpose: To show which payment methods contributed the most to total sales.
@@ -93,7 +60,7 @@ Y-axis → Payment Method (Credit Card, COD, Debit, UPI)
 X-axis → Sum of Total Sales (INR)
 Color-coded for visual contrast.
 
-#3️.State-wise Order
+State-wise Order
 
 Type: Tree Map
 Purpose: To show regional distribution of orders.
@@ -102,14 +69,14 @@ Each rectangle = one state (size = total orders/sales).
 Larger area → more orders.
 Perfect for geographical categorical comparison without maps.
 
-# 4️.Product Wise Rating
+Product Wise Rating
 
 Type: Table / Matrix Visual
 Purpose: To list products with their total review ratings.
 Columns: Product_Name | Sum of Review_Rating
 Use: For rank-based insights (Perfume, Children’s Book, Smartwatch rated highest).
 
-# 5.Total Sales INR by Delivery Status (Groups)
+Total Sales INR by Delivery Status (Groups)
 
 Type: Stacked Bar Chart
 Purpose: To compare delivery outcomes (Delivered, Pending, Returned).
@@ -118,7 +85,7 @@ Y-axis → Delivery Status
 X-axis → Sum of Total Sales (INR)
 Visual Feature: 100% stacked bar style shows proportions and totals simultaneously.
 
-# 6️.Top 10 Total Sales INR by Product Name
+Top 10 Total Sales INR by Product Name
 
 Type: Horizontal Bar Chart (Sorted)
 Purpose: To display top 10 best-selling products.
