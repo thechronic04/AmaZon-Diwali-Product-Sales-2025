@@ -1,5 +1,5 @@
 # AmaZon-Diwali-Product-Sales-2025 
-# Using Power BI
+# Using Power BI And Python Library (matplotlib, pandas)
 Sales report of the amazon Diwali sale 2025
 
 ## Dataset used
