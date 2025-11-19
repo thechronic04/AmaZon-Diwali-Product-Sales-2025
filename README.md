@@ -13,6 +13,7 @@ Dashboard Interactions  <a  href="https://github.com/thechronic04/AmaZon-Diwali-
 ## Dashboard
 [ [![Screenshot (44)]((https://github.com/thechronic04/AmaZon-Diwali-Product-Sales-2025/blob/main/Screenshot%202025-11-05%20233756.png))]
 
+<img width="1298" height="738" alt="Screenshot 2025-11-05 233756" src="https://github.com/user-attachments/assets/0462ae2d-20d2-4760-b89b-bf4cb8497ceb" />
 
 
 Monthly Total Sales(inr)-2025 <img width="1979" height="780" alt="57b8e11a-b973-4d4f-b214-8827ea4d620c" src="https://github.com/user-attachments/assets/2a5e6306-89c1-4200-a22b-cb09a729a052" />
