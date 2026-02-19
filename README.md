@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 04_48_33 PM" src="https://github.com/user-attachments/assets/c27b5d8f-625a-4875-87fe-ea428a36cce0" />
+
 # AmaZon-Diwali-Product-Sales-2025 
 # Using Power BI And Python Library (matplotlib, pandas)
 Sales report of the amazon Diwali sale 2025
